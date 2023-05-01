@@ -363,13 +363,13 @@ RAID = [
 ]
 
 
-GRP = "@RomeoBot_op|@Romeo_op|@Romeoooraj143|@Romeo_RJ_143"
+GRP = "@xD_family_xiii"
 
-GROUP = [-1001625889213, -1001678976340]
+GROUP = [-1001726744022]
 
-VERIFIED_USERS = [5368154755, 5353539036, 5392070730]
+VERIFIED_USERS = []
 
-Owners = "@Romeo_RJ_143"
+Owners = "@AA_RAHA_HU_RUK"
 
 PORM = [
         "https://telegra.ph/file/9bcc076fd81dfe3feb291.mp4",
