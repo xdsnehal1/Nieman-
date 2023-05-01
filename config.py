@@ -4,16 +4,16 @@ API_ID = int(getenv("API_ID", "6435225")) #optional
 API_HASH = getenv("API_HASH", "") #optional
 
 BOT_TOKEN = getenv("BOT_TOKEN", "")
-MONGO_URL = getenv("MONGO_URL", "")
+
 OWNER_ID = int(getenv("OWNER_ID", ""))
 LOG_GROUP = getenv("LOG_GROUP", "")
 PM_LOGGER = getenv("PM_LOGGER", "")
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5368154755").split()))
 GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
-REPO_URL = getenv("REPO_URL", "https://github.com/RRomeo-RJ/ROMEO-USERBOT")
+REPO_URL = getenv("REPO_URL", "https://github.com/xdsnehal1/Nieman")
 BRANCH = getenv("BRANCH", "master") #don't change
-ALIVE_PIC = getenv("ALIVE_PIC", "https://telegra.ph/file/a62b9c7d9848afde0569e.jpg")
-ALIVE_TEXT = getenv("ALIVE_TEXT", "ʀᴏᴍᴇᴏʙᴏᴛ")
+ALIVE_PIC = getenv("ALIVE_PIC", "https://graph.org/file/f535e4f2a31d08935fdb4.jpg")
+ALIVE_TEXT = getenv("ALIVE_TEXT", "Nieman")
  
 STRING_SESSION1 = getenv("STRING_SESSION1", "")
 STRING_SESSION2 = getenv("STRING_SESSION2", "")
